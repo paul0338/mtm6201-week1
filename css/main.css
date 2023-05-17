@@ -7,11 +7,13 @@
 }
 body{
     background-color:rgb(41, 57, 8);
-    color:wh;
+    font-size: 20px;
+    color: antiquewhite;
 }
 .container{
-    
+    padding-right:100px ;
     padding-left:100px
+    
     
     
 }
@@ -24,7 +26,10 @@ dl{
     
 }
 dd{
+    font-weight: bold;
+    font-size: 20.15px;
     margin-left: 0%
+    
 }
 h1,dl{
     background-color: rgb(16, 73, 16);
