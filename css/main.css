@@ -1,0 +1,31 @@
+.image{
+    
+    float: left;
+    max-width: 150px;
+    
+    height: auto;
+}
+body{
+    background-color:rgb(41, 57, 8);
+    color:wh;
+}
+.container{
+    
+    padding-left:100px
+    
+    
+}
+main p{
+    margin: 0%;
+}
+dl{
+    display: inline-block;
+    width: 100%;
+    
+}
+dd{
+    margin-left: 0%
+}
+h1,dl{
+    background-color: rgb(16, 73, 16);
+}
